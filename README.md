@@ -5,6 +5,10 @@ A python library for cell point cloud data preprocessing. The library currently 
 - cross-time ST data alignment and evaluation using optimal transport
 - cross-time training plan construction for machine learning models
 
+\[Image generated and ready for use.]
+
+![image](https://github.com/user-attachments/assets/97929724-d93c-4f66-a924-1a882496ca76)
+
 # recent activities
 - June 4th,  2025: mini-batch solver for entropic semi-relaxed FGW based on POT
 - June 16th, 2025: full-batch solver for entropic semi-relaxed FGW based on POT
